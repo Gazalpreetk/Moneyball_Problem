@@ -17,8 +17,11 @@ Method
 We used Microsoft Excel's Solver with the following setup:
 
 Objective: Maximize cell J$84 (total WAR of the selected team).
+
 Variable Cells: Z$2:Z$82 (binary decision variables indicating whether a player is chosen).
+
 Constraints:
+
 Total salary ≤ $200 million (K$84 ≤ 200)
 At least 5 top players w.r.t runs included (L$85:L$85 ≥ L$86:L$86)
 Decision variables are binary (Z$2:Z$82 = binary)
