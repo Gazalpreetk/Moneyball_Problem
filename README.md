@@ -5,6 +5,7 @@ Situation: Oakland A's, a small-market team with limited financial resources, fa
 Strategy: Billy Beane's innovative approach involved data-driven player evaluation using Sabermetrics, focusing on objective metrics like OBP and SLG.
 
 Moneyball Optimization Solution
+
 Objective
 To construct a baseball team that maximizes the total Wins Above Replacement (WAR) while staying under a $200 million salary cap and including at least 5 of the top players in terms of runs scored.
 
