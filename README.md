@@ -37,19 +37,33 @@ Selected Team Roster
 The final team comprises the following players:
 
 Aaron Judge | NYY | RF
+
 Alejandro Kirk | TOR | C
+
 Andres Gimenez | CLE | SS
+
 Austin Riley | ATL | 3B
+
 Brandon Nimmo | NYM | CF
+
 J.T. Realmuto | PHI | C
+
 Jeff McNeil | NYM | 2B
+
 Julio Rodriguez | SEA | RF
+
 Manny Machado | SD | 3B
+
 Mookie Betts | LAD | RF
+
 Nolan Arenado | STL | 3B
+
 Paul Goldschmidt | STL | 1B
+
 Tommy Edman | STL | 2B
+
 Xander Bogaerts | BOS | SS
+
 Yordan Alvarez | HOU | DH
 
 Analysis
