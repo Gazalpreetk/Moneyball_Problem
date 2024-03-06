@@ -1,4 +1,4 @@
-# Moneyball_Problem
+# Basketball Analytics, Moneyball
 
 Situation: Oakland A's, a small-market team with limited financial resources, faced constant player losses to wealthier franchises.
 
