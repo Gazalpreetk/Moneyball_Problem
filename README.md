@@ -6,13 +6,14 @@ Strategy: Billy Beane's innovative approach involved data-driven player evaluati
 
 Moneyball Optimization Solution
 
-Objective
+Objective:
 To construct a baseball team that maximizes the total Wins Above Replacement (WAR) while staying under a $200 million salary cap and including at least 5 of the top players in terms of runs scored.
 
-Data
+Data:
 The player data includes statistics such as At Bats (AB), Runs (R), Hits (H), Average (AVG), Home Runs (HR), WAR, and Salary among others. Each player's position is also taken into account to ensure a complete team roster is formed.
 
 Method
+
 We used Microsoft Excel's Solver with the following setup:
 
 Objective: Maximize cell J$84 (total WAR of the selected team).
