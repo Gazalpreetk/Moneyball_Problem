@@ -16,9 +16,9 @@ Method
 
 We used Microsoft Excel's Solver with the following setup:
 
-Objective: Maximize cell J$84 (total WAR of the selected team).
+Objective:   Maximize cell J$84 (total WAR of the selected team).
 
-Variable Cells: Z$2:Z$82 (binary decision variables indicating whether a player is chosen).
+Variable Cells:   Z$2:Z$82 (binary decision variables indicating whether a player is chosen).
 
 Constraints:
 
