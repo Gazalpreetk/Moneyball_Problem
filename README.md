@@ -66,7 +66,8 @@ Xander Bogaerts | BOS | SS
 
 Yordan Alvarez | HOU | DH
 
-Analysis
+Analysis: 
+
 This roster was selected for its high cumulative WAR, indicating a strong overall contribution above replacement-level players, while still meeting the salary and top player constraints. Notably, this selection strategy emphasizes performance metrics over traditional scouting methods, aligning with the Moneyball philosophy.
 
 
