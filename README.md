@@ -22,10 +22,11 @@ Variable Cells: Z$2:Z$82 (binary decision variables indicating whether a player 
 
 Constraints:
 
-Total salary ≤ $200 million (K$84 ≤ 200)
-At least 5 top players w.r.t runs included (L$85:L$85 ≥ L$86:L$86)
-Decision variables are binary (Z$2:Z$82 = binary)
-Exactly 15 players must be selected (Z$84 = 15)
+1. Total salary ≤ $200 million (K$84 ≤ 200)
+
+2. At least 5 top players w.r.t runs included (L$85:L$85 ≥ L$86:L$86)
+3. Decision variables are binary (Z$2:Z$82 = binary)
+4. Exactly 15 players must be selected (Z$84 = 15)
 
 Solver Configuration
 Solving Method: GRG Nonlinear, as the problem is nonlinear due to the salary cap and minimum player conditions.
