@@ -27,6 +27,9 @@ Constraints:
 3. Decision variables are binary (Z$2:Z$82 = binary)
 4. Exactly 15 players must be selected (Z$84 = 15)
 
+![image](https://github.com/user-attachments/assets/5c52154a-e55d-48b9-a1be-d8af2c1dd0a4)
+
+
 # Solver Configuration
 Solving Method: GRG Nonlinear, as the problem is nonlinear due to the salary cap and minimum player conditions.
 Results
